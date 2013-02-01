@@ -1,6 +1,6 @@
 MoepServer edition of Moep ported to C++/Qt
 
-## Readme of the Java-Version ##
+#### Readme of the Java-Version
 ServerONLY edition of Moep which which will make it possible to play with friends via internet
 
 The server-side MOEP is NOT considered to be run as a dedicated server!
